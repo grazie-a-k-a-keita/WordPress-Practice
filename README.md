@@ -1,4 +1,3 @@
-# wordpress-practice
 ## wordpress-practice
 
 ```bash
